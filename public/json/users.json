@@ -1,0 +1,12 @@
+[
+    {
+        "user": "John Doe",
+        "email": "john@gmail.com",
+        "status": "active"
+    },
+    {
+        "user": "Jane Doe",
+        "email": "jane.gmail.com",
+        "status": "inactive"
+    }
+]
